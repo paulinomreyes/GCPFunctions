@@ -1,0 +1,18 @@
+The term serverless is confusing.
+
+Fundamentally FaaS is running back end code without managing your own server systems. 
+
+Event Driven Style applications
+
+Containers caters synchronous-request driven
+
+The key operational difference between FaaS and PaaS is scaling. 
+With most PaaS’s you still need to think about scale,
+
+
+http://docs.aws.amazon.com/lambda/latest/dg/lambda-introduction.html
+
+https://aws.amazon.com/lambda/pricing/
+
+
+
